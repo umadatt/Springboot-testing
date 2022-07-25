@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class CheckController {
 	
-	@GetMapping("/displays)
+	@GetMapping("/displays")
 	public String display() {
 		return "Successfully called Rest API";
 	}
