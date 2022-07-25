@@ -43,7 +43,7 @@
 </plugin>
 			
 		</plugins>
-		<finalName>SpringBootTesting</finalName>
+		<finalName>springboottesting</finalName>
 	</build>
 
 </project>
